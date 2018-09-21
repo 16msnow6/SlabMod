@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "extra_blocks:block" }
+    }
+}
